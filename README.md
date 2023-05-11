@@ -76,15 +76,18 @@ plt.axis('off')
 
 ### Display the input Image
 
-![](i1.png)
+![image](https://github.com/Rohith-AIDS/Opening-and-Closing/assets/94980736/18d95d5f-0fec-407e-aafe-d2823aece4f8)
+
 
 ### Display the Eroded Image
 
-![](i2.png)
+![image](https://github.com/Rohith-AIDS/Opening-and-Closing/assets/94980736/2c8ddad6-77b9-44ac-a194-da7268068482)
+
 
 ### Display the Dilated Image
 
-![](i3.png)
+![image](https://github.com/Rohith-AIDS/Opening-and-Closing/assets/94980736/302b36ea-007a-45da-b074-168af9106ad2)
+
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
