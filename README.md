@@ -28,8 +28,8 @@ Plot the images using plt.imshow().
  
 ## Program:
 ```Python
-Developed By: Kadin Samson L
-Register  No: 212221230044
+Developed By: SV ROHITHKUMAR
+Register  No: 212221230084
 ```
 
 ``` Python
