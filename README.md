@@ -72,9 +72,11 @@ plt.axis('off')
 
 
 ### Result of Opening
+![image](https://github.com/Rohith-AIDS/Opening-and-Closing/assets/94980736/290cdd6c-1207-4793-91b9-952b7748cbd2)
 
 ### Result of Closing
-![Uploading image.png…]()
+![image](https://github.com/Rohith-AIDS/Opening-and-Closing/assets/94980736/49753d3b-e687-484b-9f9c-060fced5ab9c)
+
 
 ## RESULT:
 Thus, the Opening and Closing operation is used in the image using python and OpenCV.
