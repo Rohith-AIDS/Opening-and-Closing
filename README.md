@@ -67,14 +67,14 @@ plt.axis('off')
 ## OUTPUT:
 
 ### Input Image
-![out1](https://github.com/Guru-Guna/Opening-and-Closing/assets/93427255/e5a91cc0-3082-4ed0-8901-98b3bf779327)
+![image](https://github.com/Rohith-AIDS/Opening-and-Closing/assets/94980736/aa418c3c-0a85-4d84-9175-950b1d1abb2a)
+
 
 
 ### Result of Opening
-![out2](https://github.com/Guru-Guna/Opening-and-Closing/assets/93427255/d44748c0-2042-41ad-b889-df1ea6d79707)
 
 ### Result of Closing
-![out3](https://github.com/Guru-Guna/Opening-and-Closing/assets/93427255/9fe75b0e-7773-48c1-85c2-82c236a0bfc6)
+![Uploading image.png…]()
 
 ## RESULT:
 Thus, the Opening and Closing operation is used in the image using python and OpenCV.
